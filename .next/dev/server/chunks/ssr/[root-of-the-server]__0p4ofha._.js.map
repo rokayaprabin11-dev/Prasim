@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///home/prabinrokaya/Prasim/digix-landing-page/app/page.tsx"],"sourcesContent":["import { DigixLanding } from \"@/components/DigixLanding\";\n\nexport default function Page() {\n  return <DigixLanding />;\n}"],"names":["Page","DigixLanding"],"mappings":";;;;;;;;;;;;AAEe,SAASA;IACtB,qBAAO,8OAACC;;;;;AACV"}}]
+}
